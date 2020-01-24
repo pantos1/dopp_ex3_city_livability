@@ -1,49 +1,49 @@
-Country;City;Rank							
-Austria;Vienna;1							
-Switzerland;Zürich;2							
-Switzerland;Geneva;3							
-Canada;Vancouver;3							
-New Zealand;Auckland;4							
-Germany;Düsseldorf;6							
-Germany;Frankfurt;7							
-Germany;Munich;7							
-Switzerland;Bern;9							
-Australia;Sydney;10							
-Denmark;Copenhagen;11							
-New Zealand;Wellington;12							
-Netherlands;Amsterdam;13							
-Canada;Ottawa;14							
-Belgium;Brussels;15							
-Canada;Toronto;16							
-Germany;Berlin;17							
-Australia;Melbourne;18							
-Luxembourg;Luxembourg;19							
-Sweden;Stockholm;20							
-Canada;Montreal;21							
-Australia;Perth;21							
-Germany;Hamburg;23							
-Norway;Oslo;24							
-Germany;Nuremberg;24							
-Ireland;Dublin;26							
-Australia;Canberra;26							
-Canada;Calgary;28							
-Singapore;Singapore;28							
-Germany;Stuttgart;30							
-United States;Honolulu;31							
-Australia;Adelaide;32							
-United States;San Francisco;32							
-France;Paris;34							
-Finland;Helsinki;35							
-Australia;Brisbane;36							
-United States;Boston;37							
-France;Lyon;38							
-United Kingdom;London;39							
-Japan;Tokyo;40							
-Japan;Kobe;41							
-Italy;Milan;41							
-Spain;Barcelona;44							
-Portugal;Lisbon;45							
-United States;Washington, D.C.;45							
-United States;Chicago;45							
-United States;New York City;49							
-United States;Seattle;50							
+Country;City;Rank
+Austria;Vienna;1
+Switzerland;Zürich;2
+Switzerland;Geneva;3
+Canada;Vancouver;3
+New Zealand;Auckland;4
+Germany;Düsseldorf;6
+Germany;Frankfurt;7
+Germany;Munich;7
+Switzerland;Bern;9
+Australia;Sydney;10
+Denmark;Copenhagen;11
+New Zealand;Wellington;12
+Netherlands;Amsterdam;13
+Canada;Ottawa;14
+Belgium;Brussels;15
+Canada;Toronto;16
+Germany;Berlin;17
+Australia;Melbourne;18
+Luxembourg;Luxembourg;19
+Sweden;Stockholm;20
+Canada;Montreal;21
+Australia;Perth;21
+Germany;Hamburg;23
+Norway;Oslo;24
+Germany;Nuremberg;24
+Ireland;Dublin;26
+Australia;Canberra;26
+Canada;Calgary;28
+Singapore;Singapore;28
+Germany;Stuttgart;30
+United States;Honolulu;31
+Australia;Adelaide;32
+United States;San Francisco;32
+France;Paris;34
+Finland;Helsinki;35
+Australia;Brisbane;36
+United States;Boston;37
+France;Lyon;38
+United Kingdom;London;39
+Japan;Tokyo;40
+Japan;Kobe;41
+Italy;Milan;41
+Spain;Barcelona;44
+Portugal;Lisbon;45
+United States;Washington, D.C.;45
+United States;Chicago;45
+United States;New York City;49
+United States;Seattle;50
