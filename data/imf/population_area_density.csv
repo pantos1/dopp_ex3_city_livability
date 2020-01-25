@@ -1,4 +1,4 @@
-Country;Year;Series;Value
+ï»¿Country;Year;Series;Value
 Afghanistan;2005;Population mid-year estimates (millions);25.6543
 Afghanistan;2005;Population mid-year estimates for males (millions);13.2397
 Afghanistan;2005;Population mid-year estimates for females (millions);12.4146
@@ -1391,35 +1391,35 @@ Costa Rica;2019;Sex ratio (males per 100 females);99.9017
 Costa Rica;2019;Population aged 0 to 14 years old (percentage);21.0786
 Costa Rica;2019;Population aged 60+ years old (percentage);14.4913
 Costa Rica;2019;Population density;98.8555
-C“te d?Ivoire;2005;Population mid-year estimates (millions);18.3545
-C“te d?Ivoire;2005;Population mid-year estimates for males (millions);9.3791
-C“te d?Ivoire;2005;Population mid-year estimates for females (millions);8.9754
-C“te d?Ivoire;2005;Sex ratio (males per 100 females);104.4986
-C“te d?Ivoire;2005;Population aged 0 to 14 years old (percentage);44.1294
-C“te d?Ivoire;2005;Population aged 60+ years old (percentage);4.6587
-C“te d?Ivoire;2005;Population density;57.7186
-C“te d?Ivoire;2010;Population mid-year estimates (millions);20.5330
-C“te d?Ivoire;2010;Population mid-year estimates for males (millions);10.4265
-C“te d?Ivoire;2010;Population mid-year estimates for females (millions);10.1064
-C“te d?Ivoire;2010;Sex ratio (males per 100 females);103.1671
-C“te d?Ivoire;2010;Population aged 0 to 14 years old (percentage);43.6211
-C“te d?Ivoire;2010;Population aged 60+ years old (percentage);4.5381
-C“te d?Ivoire;2010;Population density;64.5690
-C“te d?Ivoire;2017;Population mid-year estimates (millions);24.4375
-C“te d?Ivoire;2017;Population mid-year estimates for males (millions);12.3439
-C“te d?Ivoire;2017;Population mid-year estimates for females (millions);12.0936
-C“te d?Ivoire;2017;Sex ratio (males per 100 females);102.0693
-C“te d?Ivoire;2017;Population aged 0 to 14 years old (percentage);42.1667
-C“te d?Ivoire;2017;Population aged 60+ years old (percentage);4.6394
-C“te d?Ivoire;2017;Population density;76.8474
-C“te d?Ivoire;2017;Surface area (thousand km2);322.4630
-C“te d?Ivoire;2019;Population mid-year estimates (millions);25.7165
-C“te d?Ivoire;2019;Population mid-year estimates for males (millions);12.9742
-C“te d?Ivoire;2019;Population mid-year estimates for females (millions);12.7423
-C“te d?Ivoire;2019;Sex ratio (males per 100 females);101.8196
-C“te d?Ivoire;2019;Population aged 0 to 14 years old (percentage);41.7147
-C“te d?Ivoire;2019;Population aged 60+ years old (percentage);4.6718
-C“te d?Ivoire;2019;Population density;80.8696
+Cï¿½te d?Ivoire;2005;Population mid-year estimates (millions);18.3545
+Cï¿½te d?Ivoire;2005;Population mid-year estimates for males (millions);9.3791
+Cï¿½te d?Ivoire;2005;Population mid-year estimates for females (millions);8.9754
+Cï¿½te d?Ivoire;2005;Sex ratio (males per 100 females);104.4986
+Cï¿½te d?Ivoire;2005;Population aged 0 to 14 years old (percentage);44.1294
+Cï¿½te d?Ivoire;2005;Population aged 60+ years old (percentage);4.6587
+Cï¿½te d?Ivoire;2005;Population density;57.7186
+Cï¿½te d?Ivoire;2010;Population mid-year estimates (millions);20.5330
+Cï¿½te d?Ivoire;2010;Population mid-year estimates for males (millions);10.4265
+Cï¿½te d?Ivoire;2010;Population mid-year estimates for females (millions);10.1064
+Cï¿½te d?Ivoire;2010;Sex ratio (males per 100 females);103.1671
+Cï¿½te d?Ivoire;2010;Population aged 0 to 14 years old (percentage);43.6211
+Cï¿½te d?Ivoire;2010;Population aged 60+ years old (percentage);4.5381
+Cï¿½te d?Ivoire;2010;Population density;64.5690
+Cï¿½te d?Ivoire;2017;Population mid-year estimates (millions);24.4375
+Cï¿½te d?Ivoire;2017;Population mid-year estimates for males (millions);12.3439
+Cï¿½te d?Ivoire;2017;Population mid-year estimates for females (millions);12.0936
+Cï¿½te d?Ivoire;2017;Sex ratio (males per 100 females);102.0693
+Cï¿½te d?Ivoire;2017;Population aged 0 to 14 years old (percentage);42.1667
+Cï¿½te d?Ivoire;2017;Population aged 60+ years old (percentage);4.6394
+Cï¿½te d?Ivoire;2017;Population density;76.8474
+Cï¿½te d?Ivoire;2017;Surface area (thousand km2);322.4630
+Cï¿½te d?Ivoire;2019;Population mid-year estimates (millions);25.7165
+Cï¿½te d?Ivoire;2019;Population mid-year estimates for males (millions);12.9742
+Cï¿½te d?Ivoire;2019;Population mid-year estimates for females (millions);12.7423
+Cï¿½te d?Ivoire;2019;Sex ratio (males per 100 females);101.8196
+Cï¿½te d?Ivoire;2019;Population aged 0 to 14 years old (percentage);41.7147
+Cï¿½te d?Ivoire;2019;Population aged 60+ years old (percentage);4.6718
+Cï¿½te d?Ivoire;2019;Population density;80.8696
 Croatia;2005;Population mid-year estimates (millions);4.3781
 Croatia;2005;Population mid-year estimates for males (millions);2.1083
 Croatia;2005;Population mid-year estimates for females (millions);2.2698
@@ -1478,35 +1478,35 @@ Cuba;2019;Sex ratio (males per 100 females);98.6394
 Cuba;2019;Population aged 0 to 14 years old (percentage);16.0423
 Cuba;2019;Population aged 60+ years old (percentage);20.6811
 Cuba;2019;Population density;106.4777
-Cura‡ao;2005;Population mid-year estimates (millions);0.1301
-Cura‡ao;2005;Population mid-year estimates for males (millions);0.0610
-Cura‡ao;2005;Population mid-year estimates for females (millions);0.0691
-Cura‡ao;2005;Sex ratio (males per 100 females);88.2292
-Cura‡ao;2005;Population aged 0 to 14 years old (percentage);21.5546
-Cura‡ao;2005;Population aged 60+ years old (percentage);17.0691
-Cura‡ao;2005;Population density;293.0856
-Cura‡ao;2010;Population mid-year estimates (millions);0.1492
-Cura‡ao;2010;Population mid-year estimates for males (millions);0.0686
-Cura‡ao;2010;Population mid-year estimates for females (millions);0.0806
-Cura‡ao;2010;Sex ratio (males per 100 females);85.0095
-Cura‡ao;2010;Population aged 0 to 14 years old (percentage);20.7096
-Cura‡ao;2010;Population aged 60+ years old (percentage);18.6082
-Cura‡ao;2010;Population density;336.0180
-Cura‡ao;2017;Population mid-year estimates (millions);0.1620
-Cura‡ao;2017;Population mid-year estimates for males (millions);0.0743
-Cura‡ao;2017;Population mid-year estimates for females (millions);0.0877
-Cura‡ao;2017;Sex ratio (males per 100 females);84.7321
-Cura‡ao;2017;Population aged 0 to 14 years old (percentage);19.2794
-Cura‡ao;2017;Population aged 60+ years old (percentage);22.6689
-Cura‡ao;2017;Population density;364.8581
-Cura‡ao;2017;Surface area (thousand km2);0.4440
-Cura‡ao;2019;Population mid-year estimates (millions);0.1634
-Cura‡ao;2019;Population mid-year estimates for males (millions);0.0751
-Cura‡ao;2019;Population mid-year estimates for females (millions);0.0883
-Cura‡ao;2019;Sex ratio (males per 100 females);84.9953
-Cura‡ao;2019;Population aged 0 to 14 years old (percentage);18.4942
-Cura‡ao;2019;Population aged 60+ years old (percentage);23.8741
-Cura‡ao;2019;Population density;368.0721
+Curaï¿½ao;2005;Population mid-year estimates (millions);0.1301
+Curaï¿½ao;2005;Population mid-year estimates for males (millions);0.0610
+Curaï¿½ao;2005;Population mid-year estimates for females (millions);0.0691
+Curaï¿½ao;2005;Sex ratio (males per 100 females);88.2292
+Curaï¿½ao;2005;Population aged 0 to 14 years old (percentage);21.5546
+Curaï¿½ao;2005;Population aged 60+ years old (percentage);17.0691
+Curaï¿½ao;2005;Population density;293.0856
+Curaï¿½ao;2010;Population mid-year estimates (millions);0.1492
+Curaï¿½ao;2010;Population mid-year estimates for males (millions);0.0686
+Curaï¿½ao;2010;Population mid-year estimates for females (millions);0.0806
+Curaï¿½ao;2010;Sex ratio (males per 100 females);85.0095
+Curaï¿½ao;2010;Population aged 0 to 14 years old (percentage);20.7096
+Curaï¿½ao;2010;Population aged 60+ years old (percentage);18.6082
+Curaï¿½ao;2010;Population density;336.0180
+Curaï¿½ao;2017;Population mid-year estimates (millions);0.1620
+Curaï¿½ao;2017;Population mid-year estimates for males (millions);0.0743
+Curaï¿½ao;2017;Population mid-year estimates for females (millions);0.0877
+Curaï¿½ao;2017;Sex ratio (males per 100 females);84.7321
+Curaï¿½ao;2017;Population aged 0 to 14 years old (percentage);19.2794
+Curaï¿½ao;2017;Population aged 60+ years old (percentage);22.6689
+Curaï¿½ao;2017;Population density;364.8581
+Curaï¿½ao;2017;Surface area (thousand km2);0.4440
+Curaï¿½ao;2019;Population mid-year estimates (millions);0.1634
+Curaï¿½ao;2019;Population mid-year estimates for males (millions);0.0751
+Curaï¿½ao;2019;Population mid-year estimates for females (millions);0.0883
+Curaï¿½ao;2019;Sex ratio (males per 100 females);84.9953
+Curaï¿½ao;2019;Population aged 0 to 14 years old (percentage);18.4942
+Curaï¿½ao;2019;Population aged 60+ years old (percentage);23.8741
+Curaï¿½ao;2019;Population density;368.0721
 Cyprus;2005;Population mid-year estimates (millions);1.0277
 Cyprus;2005;Population mid-year estimates for males (millions);0.5205
 Cyprus;2005;Population mid-year estimates for females (millions);0.5072
@@ -4741,35 +4741,35 @@ Republic of Moldova;2019;Sex ratio (males per 100 females);92.0414
 Republic of Moldova;2019;Population aged 0 to 14 years old (percentage);15.8897
 Republic of Moldova;2019;Population aged 60+ years old (percentage);18.4187
 Republic of Moldova;2019;Population density;123.0826
-R‚union;2005;Population mid-year estimates (millions);0.7916
-R‚union;2005;Population mid-year estimates for males (millions);0.3885
-R‚union;2005;Population mid-year estimates for females (millions);0.4031
-R‚union;2005;Sex ratio (males per 100 females);96.3566
-R‚union;2005;Population aged 0 to 14 years old (percentage);26.8588
-R‚union;2005;Population aged 60+ years old (percentage);10.2633
-R‚union;2005;Population density;316.6392
-R‚union;2010;Population mid-year estimates (millions);0.8305
-R‚union;2010;Population mid-year estimates for males (millions);0.4021
-R‚union;2010;Population mid-year estimates for females (millions);0.4284
-R‚union;2010;Sex ratio (males per 100 females);93.8738
-R‚union;2010;Population aged 0 to 14 years old (percentage);25.4171
-R‚union;2010;Population aged 60+ years old (percentage);12.1951
-R‚union;2010;Population density;332.2076
-R‚union;2017;Population mid-year estimates (millions);0.8761
-R‚union;2017;Population mid-year estimates for males (millions);0.4243
-R‚union;2017;Population mid-year estimates for females (millions);0.4519
-R‚union;2017;Sex ratio (males per 100 females);93.8913
-R‚union;2017;Population aged 0 to 14 years old (percentage);23.6064
-R‚union;2017;Population aged 60+ years old (percentage);16.4103
-R‚union;2017;Population density;350.4536
-R‚union;2017;Surface area (thousand km2);2.5130
-R‚union;2019;Population mid-year estimates (millions);0.8889
-R‚union;2019;Population mid-year estimates for males (millions);0.4303
-R‚union;2019;Population mid-year estimates for females (millions);0.4586
-R‚union;2019;Sex ratio (males per 100 females);93.8157
-R‚union;2019;Population aged 0 to 14 years old (percentage);22.7533
-R‚union;2019;Population aged 60+ years old (percentage);17.6108
-R‚union;2019;Population density;355.5708
+Rï¿½union;2005;Population mid-year estimates (millions);0.7916
+Rï¿½union;2005;Population mid-year estimates for males (millions);0.3885
+Rï¿½union;2005;Population mid-year estimates for females (millions);0.4031
+Rï¿½union;2005;Sex ratio (males per 100 females);96.3566
+Rï¿½union;2005;Population aged 0 to 14 years old (percentage);26.8588
+Rï¿½union;2005;Population aged 60+ years old (percentage);10.2633
+Rï¿½union;2005;Population density;316.6392
+Rï¿½union;2010;Population mid-year estimates (millions);0.8305
+Rï¿½union;2010;Population mid-year estimates for males (millions);0.4021
+Rï¿½union;2010;Population mid-year estimates for females (millions);0.4284
+Rï¿½union;2010;Sex ratio (males per 100 females);93.8738
+Rï¿½union;2010;Population aged 0 to 14 years old (percentage);25.4171
+Rï¿½union;2010;Population aged 60+ years old (percentage);12.1951
+Rï¿½union;2010;Population density;332.2076
+Rï¿½union;2017;Population mid-year estimates (millions);0.8761
+Rï¿½union;2017;Population mid-year estimates for males (millions);0.4243
+Rï¿½union;2017;Population mid-year estimates for females (millions);0.4519
+Rï¿½union;2017;Sex ratio (males per 100 females);93.8913
+Rï¿½union;2017;Population aged 0 to 14 years old (percentage);23.6064
+Rï¿½union;2017;Population aged 60+ years old (percentage);16.4103
+Rï¿½union;2017;Population density;350.4536
+Rï¿½union;2017;Surface area (thousand km2);2.5130
+Rï¿½union;2019;Population mid-year estimates (millions);0.8889
+Rï¿½union;2019;Population mid-year estimates for males (millions);0.4303
+Rï¿½union;2019;Population mid-year estimates for females (millions);0.4586
+Rï¿½union;2019;Sex ratio (males per 100 females);93.8157
+Rï¿½union;2019;Population aged 0 to 14 years old (percentage);22.7533
+Rï¿½union;2019;Population aged 60+ years old (percentage);17.6108
+Rï¿½union;2019;Population density;355.5708
 Romania;2005;Population mid-year estimates (millions);21.4173
 Romania;2005;Population mid-year estimates for males (millions);10.4386
 Romania;2005;Population mid-year estimates for females (millions);10.9787
@@ -4857,12 +4857,12 @@ Rwanda;2019;Sex ratio (males per 100 females);96.6552
 Rwanda;2019;Population aged 0 to 14 years old (percentage);39.7660
 Rwanda;2019;Population aged 60+ years old (percentage);4.9602
 Rwanda;2019;Population density;511.8342
-Saint Barth‚lemy;2005;Population mid-year estimates (millions);0.0086
-Saint Barth‚lemy;2005;Population density;388.7727
-Saint Barth‚lemy;2010;Population mid-year estimates (millions);0.0092
-Saint Barth‚lemy;2010;Population density;419.7273
-Saint Barth‚lemy;2019;Population mid-year estimates (millions);0.0098
-Saint Barth‚lemy;2019;Population density;447.5909
+Saint Barthï¿½lemy;2005;Population mid-year estimates (millions);0.0086
+Saint Barthï¿½lemy;2005;Population density;388.7727
+Saint Barthï¿½lemy;2010;Population mid-year estimates (millions);0.0092
+Saint Barthï¿½lemy;2010;Population density;419.7273
+Saint Barthï¿½lemy;2019;Population mid-year estimates (millions);0.0098
+Saint Barthï¿½lemy;2019;Population density;447.5909
 Saint Helena;2005;Population mid-year estimates (millions);0.0043
 Saint Helena;2005;Population density;10.9615
 Saint Helena;2010;Population mid-year estimates (millions);0.0042
